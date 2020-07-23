@@ -1,6 +1,6 @@
 # Java_SpringBoot_And_MongoDB_CRUD_Example
 
-A working full CRUD example of developing end-points with Spring Boot connecting to a local MongoDB database, the endpoints can be tested with
+A working full CRUD example of developing end-points with Spring Boot connecting to a local MongoDB database, the endpoints can be tested after running the code in eclipse with
 postman:
 https://www.postman.com/
 
